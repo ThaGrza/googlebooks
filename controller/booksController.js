@@ -1,6 +1,6 @@
 const db = require("../models");
 
-// Methods to make query calls ----------------------------
+// Methods to make query calls 
 module.exports = {
   findAll: function(req, res) {
     db.Book
