@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/NavBar";
 import Title from "./components/Title";
 import SavedBooks from "./pages/SavedBooks";
 import Search from "./pages/Search";
